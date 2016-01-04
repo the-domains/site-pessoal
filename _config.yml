@@ -1,6 +1,6 @@
 name: Site Pessoal
 favicon: null
-layout_spectrum: 0.4679291364736855
+layout_spectrum: 0.74046
 typography_spectrum: 0.5949339144863188
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#e50010'
+    - '#000000'
+    - '#ec5456'
+    - '#afafaf'
   brandStrength: 0.19365825015120208
-  lightness: 0.719393361825496
-  saturation: 0.4833466955460608
-  rhythmicContrast: 0.22493997612036765
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
