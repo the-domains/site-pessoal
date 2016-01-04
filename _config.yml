@@ -1,0 +1,28 @@
+name: Site Pessoal
+favicon: null
+layout_spectrum: 0.4679291364736855
+typography_spectrum: 0.5949339144863188
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.19365825015120208
+  lightness: 0.719393361825496
+  saturation: 0.4833466955460608
+  rhythmicContrast: 0.22493997612036765
+purpose: []
